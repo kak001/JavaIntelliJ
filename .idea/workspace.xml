@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1bfb459-4aaa-475b-abd9-d4bcac9d9daa" name="Changes" comment="my first commit">
-      <change afterPath="$PROJECT_DIR$/src/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Run.java" afterDir="false" />
+    <list default="true" id="c1bfb459-4aaa-475b-abd9-d4bcac9d9daa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/RPG/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPG/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPG/FinalBoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPG/Healer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPG/Mage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPG/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RPG/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Animals/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/admlocal/OneDrive/Desktop/Kako/Programacion/JavaIntelliJ/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/admlocal/OneDrive/Desktop/Kako/Programacion/JavaIntelliJ/POO/src/Main.java",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
@@ -95,6 +96,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="my first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/POO/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
