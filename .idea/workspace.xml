@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1bfb459-4aaa-475b-abd9-d4bcac9d9daa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Colection/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Colection/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Colection/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Colection/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Colection/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPG/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RPG/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Colection/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Colection/Duck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

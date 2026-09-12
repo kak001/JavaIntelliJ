@@ -7,7 +7,6 @@ public class Duck extends Animal {
     }
 
     // Metodos
-
     @Override
     public void info() {
         message("INFORMACIÓN DEL PATO", YELLOW);
