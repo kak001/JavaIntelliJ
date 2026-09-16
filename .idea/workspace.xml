@@ -2,30 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1bfb459-4aaa-475b-abd9-d4bcac9d9daa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POO/Football/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/Football/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/Fish/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/Fish/Fisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/Fish/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/Fish/Salmon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/Fish/Snook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/Fish/Tuna.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaIntelliJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaIntelliJ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Football/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Football/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/Football/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Football/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/programacion-orientada-a-objetos" beforeDir="false" afterPath="$PROJECT_DIR$/programacion-orientada-a-objetos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Animals/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Animals/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Animals/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Animals/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Animals/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Animals/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Animals/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Colection/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Colection/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Colection/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Colection/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Colection/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Colection/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Colection/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Colection/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Colection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/Colection/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPG/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/RPG/Archer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPG/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/RPG/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPG/FinalBoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/RPG/FinalBoss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPG/Healer.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/RPG/Healer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPG/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/RPG/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPG/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/RPG/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RPG/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/POO/RPG/Warrior.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,26 +57,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admlocal/OneDrive/Desktop/Kako/Programacion/IntelliJ/JavaIntelliJ&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admlocal/OneDrive/Desktop/Kako/Programacion/JavaIntelliJ/POO/src/Main.java&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Fish.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admlocal/OneDrive/Desktop/Kako/Programacion/IntelliJ/JavaIntelliJ",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/admlocal/OneDrive/Desktop/Kako/Programacion/JavaIntelliJ/POO/src/Main.java",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Application.Fish.Main">
+    <configuration name="Fish.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fish.Main" />
+      <module name="JavaIntelliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fish.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Football.Main" />
+      <module name="JavaIntelliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Football.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Fish.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -123,6 +144,16 @@
           <url>file://$PROJECT_DIR$/POO/src/Main.java</url>
           <line>10</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/POO/Football/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/POO/Football/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

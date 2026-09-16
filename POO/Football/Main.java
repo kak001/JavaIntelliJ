@@ -9,7 +9,7 @@ public class Main {
         var players = new ArrayList<Player>(Arrays.asList(
                 new Player("Cristiano Ronaldo123", 91),
                 new Player("Lamine Yamal", 88),
-                new Player(null, null),
+                new Player(null, 85),
                 new Player("Kylian Mbappe", 90),
                 new Player("Neymar Junior", -2),
                 new Player("Thierry Henry", 92)
@@ -38,11 +38,10 @@ public class Main {
         }
 
         // Explicacion
-
-        // Nota: ArithmeticException, NullPointerException y NumberFormatException
+        // ArithmeticException, NullPointerException y NumberFormatException
         // son excepciones "unchecked" (heredan de RuntimeException), por lo tanto
         // el compilador no obliga a declararlas con "throws" ni a capturarlas.
-        // Se declaran aquí solo como documentación del comportamiento del método.
+        // Se declaran aquí solo como documentación del comportamiento del metodo.
         // Se usa "throw" para lanzarlas manualmente cuando se detecta un dato inválido.
     }
 }

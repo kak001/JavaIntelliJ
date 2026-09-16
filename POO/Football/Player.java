@@ -1,6 +1,5 @@
 package Football;
 
-import java.util.Locale;
 import java.util.Random;
 
 public class Player {
@@ -8,7 +7,6 @@ public class Player {
     private String name;
     private int precision;
     private Random probability;
-
 
     // Constructor
     public Player(String name, int precision) {
