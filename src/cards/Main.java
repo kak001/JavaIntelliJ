@@ -5,18 +5,35 @@ import java.util.Arrays;
 
 public class Main {
     static void main(String[] args) {
-        // Cartas
+        // Variables
+        MonsterCard monsterCard = null;
+        MonsterCard monsterCard2 = null;
+        TrapCard trapCard = null;
+        TrapCard trapCard2 = null;
+        ArrayList<Card> cards;
 
-        System.out.println("=== STOCK DE CARTAS ===");
-        var cardList = new ArrayList<Carta>(Arrays.asList(
-                new CartaMonstruo("Dragon Blanco de Ojos Azules", 3000, 2500),
-                new CartaMonstruo("Mago Oscuro", 2500, 2100),
-                new CartaTrampa("Fuerza de Espejo", "Destruye todos los monstruos en posicion de ataque."),
-                new CartaTrampa("Cilindro Magico", "Niega un ataque e inflije daño a un oponente.")
-        ));
+        // try-catch
+        try {
+            monsterCard = new MonsterCard("Dragón Blanco de Ojos Azules", 3000, 2500);
+            monsterCard2 = new MonsterCard("Mago Oscuro", 2500, 2100);
+            trapCard = new TrapCard("Fuerza de Espejo", "Destruye todos los monstruos en posición de ataque.");
+            trapCard2 = new TrapCard("Cilindro magico", "Niega un ataque e inflige daño al oponente.");
 
-        for (Carta card : cardList) {
-            System.out.println(card.toString());
+            cards = new ArrayList<Card>(Arrays.asList(monsterCard, monsterCard2, trapCard, trapCard2));
+
+            System.out.println("=== STOCK DE CARTAS ===");
+            int i = 0;
+            for (Card c: cards) {
+                i++;
+                System.out.println("Carta " + i + ": " + c.toString());
+            }
+            System.out.println();
+        } catch (IllegalArgumentException | NullPointerException e) {
+            System.out.println("Error: " + e.getMessage());
+        } catch (Exception e) {
+            System.out.println("Error Inesperado: "  + e.getMessage());
+        } finally {
+            System.out.println("Fin del Programa.");
         }
     }
 }
