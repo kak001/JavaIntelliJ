@@ -1,0 +1,23 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Extras
+programacion-orientada-a-objetos
+
+# Compilados
+*.class
+target/
+build/
+.gradle/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
