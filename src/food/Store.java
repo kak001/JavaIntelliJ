@@ -39,8 +39,8 @@ public abstract class Store {
     }
 
     public void setAddress(String address) {
-        if (address == null) throw new NullPointerException("El nombre no puede ser nulo.");
-        if (address.isEmpty()) throw new IllegalArgumentException("El nombre no puede estar vacío.");
+        if (address == null) throw new NullPointerException("La dirección no puede ser nula.");
+        if (address.isEmpty()) throw new IllegalArgumentException("La dirección no puede estar vacía.");
         this.address = address;
     }
 }

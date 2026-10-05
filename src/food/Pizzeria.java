@@ -9,7 +9,7 @@ public class Pizzeria extends Store implements FoodStore {
     // === Métodos ===
     @Override
     public String infoStore() {
-        return "Nombre de la Pizzeria: " + getName() + " | Direccion: " + getAddress() + " | Numero Telefonico: +569 " + getPhoneNumber();
+        return "Nombre de la Pizzeria: " + getName() + " | Dirección: " + getAddress() + " | Numero Telefónico: +569 " + getPhoneNumber();
     }
 
     @Override
@@ -19,6 +19,6 @@ public class Pizzeria extends Store implements FoodStore {
 
     @Override
     public String personalizedGreeting() {
-        return "¡Mamma mia, pero que rica pizza de " + getName() + " las mejores de todo Puente Alto!";
+        return "¡Mamma mia, pero que ricas pizzas de " + getName() + " las mejores de todo Puente Alto!";
     }
 }

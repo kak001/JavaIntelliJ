@@ -9,7 +9,7 @@ public class PretzelShop extends Store implements FoodStore {
     // === Métodos ===
     @Override
     public String infoStore() {
-        return "Nombre de la Pretzeleria: " + getName() + " | Direccion: " + getAddress() + " | Numero Telefonico: +569 " + getPhoneNumber();
+        return "Nombre de la Pretzeleria: " + getName() + " | Dirección: " + getAddress() + " | Numero Telefónico: +569 " + getPhoneNumber();
     }
 
     @Override
@@ -19,6 +19,6 @@ public class PretzelShop extends Store implements FoodStore {
 
     @Override
     public String personalizedGreeting() {
-        return "¡Pero que ricas son los pretzels de " + getName() + ", la mejor pretzeleria de todo Santiago!";
+        return "¡Pero que ricos son los pretzels de " + getName() + ", la mejor pretzeleria de todo Santiago!";
     }
 }
