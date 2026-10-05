@@ -19,7 +19,8 @@ public class Cat extends Animal {
     public void setColorFur(String colorFur) {
         if (colorFur == null) throw new NullPointerException("El color del pelaje no puede ser nulo.");
         if (colorFur.isEmpty()) throw new IllegalArgumentException("El color del pelaje no puede estar vacío");
-        if (colorFur.matches(".*\\d.*")) throw new IllegalArgumentException("El color del pelaje no puede contener números.");
+        if (colorFur.matches(".*\\d.*"))
+            throw new IllegalArgumentException("El color del pelaje no puede contener números.");
         this.colorFur = colorFur;
     }
 

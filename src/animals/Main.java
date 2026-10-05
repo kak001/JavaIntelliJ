@@ -30,6 +30,7 @@ public class Main {
                 System.out.println("Animal " + i + ": " + a.toString());
             }
             System.out.println();
+
             int j = 0;
             System.out.println("=== SONIDO DE LOS ANIMALES ===");
             j++;
